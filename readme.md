@@ -18,5 +18,13 @@ This project implements a machine learning model that trains on a description fe
 
 ![Data Analysis Graph](outputs/FilteredTokens.JPG)
 
+## Index Page Display
+
+![Webpage Image](outputs/indexPage.JPG)
+
+## Result Page Display
+
+![Webpage Image](outputs/resultPage.JPG)
+
 ### Drawbacks
 Since this model is in its early stages, the model is not yet able to define a neutral review. It only discriminates between positive and negative, i.e., its implementation is very binary.
